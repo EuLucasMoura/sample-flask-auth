@@ -1,0 +1,4 @@
+Flask==2.3.0
+Flash-SQLAlchemy==3.1.1
+Flask-Login==0.0.2
+Werkzeug==2.3.0
